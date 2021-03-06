@@ -1,2 +1,2 @@
-# fatal-car-tester
-tests which crashes may be fatal depending on size, weight ad speed of cars
+# p5.play-boilerplate
+Boiler plate for p5.play
